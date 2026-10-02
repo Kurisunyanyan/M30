@@ -1,0 +1,31 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.45,0:00:04.37,S01,,0,0,0,,{\b1\fs22}这架机的性能有什么过人之处吗？\N{\fs15\c&HCCCCCC&}こいつのスペックは何か特徴はあるのか？
+Dialogue: 0,0:00:04.55,0:00:06.41,S02,,0,0,0,,{\b1\fs22}问得好，里昂！\N{\fs15\c&HCCCCCC&}よく聞いてくれたわ、リオン。
+Dialogue: 0,0:00:06.95,0:00:17.12,S02,,0,0,0,,{\b1\fs22}其实，我将YF-29搭载的折叠波系统加以改良，装上了全新系统——折叠维度共振系统\N{\fs15\c&HCCCCCC&}実はYF-29に搭載されていたフォールドウェーブシステムを改良して、新たなシステム、フォールドディメンショナルレゾナンスシステムを搭載したの。
+Dialogue: 0,0:00:17.87,0:00:22.62,S03,,0,0,0,,{\b1\fs22}喂，人家特意给你说明，你给我好好听着啊！\N{\fs15\c&HCCCCCC&}ちょっと、人がせっかく説明してるんだからちゃんと聞きなさいよ。
+Dialogue: 0,0:00:23.29,0:00:31.95,S02,,0,0,0,,{\b1\fs22}而且，YF-30的特色可不止于此。我全新设计的集装箱武器，才是它最大的亮点\N{\fs15\c&HCCCCCC&}そして、YF-30の特徴はそれだけじゃないの。私が新たに設計したコンテナウェポンこそ最大の特徴よ。
+Dialogue: 0,0:00:32.41,0:00:33.87,S01,,0,0,0,,{\b1\fs22}集装箱武器？\N{\fs15\c&HCCCCCC&}コンテナウェポン？
+Dialogue: 0,0:00:34.54,0:00:37.70,S02,,0,0,0,,{\b1\fs22}简单来说，就是万能集装箱\N{\fs15\c&HCCCCCC&}簡単に説明すると、万能コンテだね。
+Dialogue: 0,0:00:38.25,0:00:47.75,S02,,0,0,0,,{\b1\fs22}能搭载大量导弹，也能作为电子战系统或加速单元使用，因此可以根据作战情况选择用法\N{\fs15\c&HCCCCCC&}大量のミサイルを搭載したり、電子戦システム、加速ユニットとして使うこともできるから、作戦に合わせて使用方法を選択できるってわけ。
+Dialogue: 0,0:00:48.45,0:00:54.33,S02,,0,0,0,,{\b1\fs22}总有一天，这项货柜武装必定会成为女武神的标准配置！\N{\fs15\c&HCCCCCC&}このコンテナウェポンがバルキリーに標準搭載される日がいつの日か必ず来るわ。
+Dialogue: 0,0:00:55.12,0:00:59.45,S01,,0,0,0,,{\b1\fs22}这可真厉害。那引擎能飙到多少？\N{\fs15\c&HCCCCCC&}そいつはすげえな。それでエンジンはどれくらい回るんだ？
+Dialogue: 0,0:01:00.20,0:01:05.45,S03,,0,0,0,,{\b1\fs22}哦～，真是的，除了飞行你什么都不感兴趣嘛\N{\fs15\c&HCCCCCC&}ふーん、ほんと、飛ぶこと以外には興味ないんだから。

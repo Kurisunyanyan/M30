@@ -1,0 +1,24 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.68,0:00:07.02,S01,,0,0,0,,{\b1\fs22}YF-30，弹射架待命\N{\fs15\c&HCCCCCC&}YF-30、カタパルトスタンバイ
+Dialogue: 0,0:00:08.68,0:00:13.02,S02,,0,0,0,,{\b1\fs22}艾莎、米娜，我一定会把你们救出来！\N{\fs15\c&HCCCCCC&}アイシャ、ミーナ。俺が必ず助け出す。
+Dialogue: 0,0:00:15.16,0:00:17.82,S02,,0,0,0,,{\b1\fs22}米娅，请保护好她们俩\N{\fs15\c&HCCCCCC&}ミア、二人を守ってくれ。
+Dialogue: 0,0:00:19.57,0:00:23.02,S03,,0,0,0,,{\b1\fs22}齐格飞1号，里昂·榊，出击！\N{\fs15\c&HCCCCCC&}ジークフリート1、リオン・榊、発進する！

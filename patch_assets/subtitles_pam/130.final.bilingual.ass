@@ -1,0 +1,26 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.76,0:00:02.97,S01,,0,0,0,,{\b1\fs22}你果然很厉害啊！\N{\fs15\c&HCCCCCC&}あんたやっぱすげえな！
+Dialogue: 0,0:00:03.04,0:00:07.14,S02,,0,0,0,,{\b1\fs22}哈，理所当然的吧。这种事还用得着你说\N{\fs15\c&HCCCCCC&}あっ、誰めだろ。そんなもん言われるまでもねえよ。
+Dialogue: 0,0:00:07.51,0:00:10.94,S03,,0,0,0,,{\b1\fs22}里昂，我想那个人就是被遗迹召唤的人\N{\fs15\c&HCCCCCC&}リオン、あの人が遺跡に呼ばれた人だと思います。
+Dialogue: 0,0:00:11.21,0:00:13.11,S04,,0,0,0,,{\b1\fs22}啊，应该是吧\N{\fs15\c&HCCCCCC&}ああ、だろうな。
+Dialogue: 0,0:00:13.51,0:00:16.78,S02,,0,0,0,,{\b1\fs22}抱歉啦。看来那家伙找我有事\N{\fs15\c&HCCCCCC&}すまねえな。あいつは俺に用があるみたいだ。
+Dialogue: 0,0:00:17.28,0:00:19.68,S02,,0,0,0,,{\b1\fs22}喂，对吧，大哥\N{\fs15\c&HCCCCCC&}なあ、そうだろ兄ちゃん。

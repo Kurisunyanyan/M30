@@ -1,0 +1,30 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.04,0:00:11.01,S01,,0,0,0,,{\b1\fs22}哇，居然真有这种事。不加以利用就太可惜了。记下来记下来。好了，我们继续讲课\N{\fs15\c&HCCCCCC&}こ、こんなことってあるのね。これを活用しない手はないわ。メモメモっと。さ、講義に戻るわよ。
+Dialogue: 0,0:00:12.89,0:00:18.04,S02,,0,0,0,,{\b1\fs22}没有文化的天顶星人，会因为男女关系和歌声而动摇\N{\fs15\c&HCCCCCC&}文化を持たないゼントラーディーたちは、男女の関わりや歌に動揺するわ。
+Dialogue: 0,0:00:19.11,0:00:24.64,S02,,0,0,0,,{\b1\fs22}虽然战力差距悬殊，但守护民生的歌声之力最终带来了胜利\N{\fs15\c&HCCCCCC&}戦力の差は歴然としていたけど、民命の歌の力が勝利をもたらすことになるの。
+Dialogue: 0,0:00:25.76,0:00:33.04,S02,,0,0,0,,{\b1\fs22}至此，第一次星间大战落幕。人类与天顶星人选择了共存之路\N{\fs15\c&HCCCCCC&}こうして第一次星間大戦は終結。人類とゼントラーディーは共存の道を選ぶわ。
+Dialogue: 0,0:00:34.54,0:00:38.44,S02,,0,0,0,,{\b1\fs22}与此同时，我们也未曾忘记濒临灭亡的惨痛教训\N{\fs15\c&HCCCCCC&}一方で滅亡の危機に瀕した教訓も忘れなかったわ。
+Dialogue: 0,0:00:40.11,0:00:46.14,S02,,0,0,0,,{\b1\fs22}为了应对下一个外星种族的到来，旨在扩散物种的宇宙移民计划启动了\N{\fs15\c&HCCCCCC&}次なる異星人の来週に備えて、種の拡散を図る宇宙移民計画がスタート。
+Dialogue: 0,0:00:47.57,0:00:58.04,S02,,0,0,0,,{\b1\fs22}始于2012年的这项计划逐渐扩大规模，最终演变为搭载一千万人的超远程移民船团\N{\fs15\c&HCCCCCC&}2012年に始まったこの計画は次第に規模も大きくなり、やがて1000万人を乗せた超長距離移民船団へと移行することになるの。
+Dialogue: 0,0:00:59.89,0:01:06.84,S01,,0,0,0,,{\b1\fs22}时间到了。怎么样？大家是否稍微理解了银河超时空要塞市的起源？\N{\fs15\c&HCCCCCC&}時間が来たようね。どう？銀河マクロス市の原点が少しは理解できたかしら？
+Dialogue: 0,0:01:08.26,0:01:14.26,S01,,0,0,0,,{\b1\fs22}那么，关于第一次星间大战的讲座就到这里。接下来还要继续深入讲解哦\N{\fs15\c&HCCCCCC&}それじゃ、第一次星間大戦の講義はここまで。まだまだみっちりいくわよ。
+Dialogue: 0,0:01:15.07,0:01:19.84,S01,,0,0,0,,{\b1\fs22}下次也请收看超时空研讨会！\N{\fs15\c&HCCCCCC&}次回も、超時空セミナールを見ろ！

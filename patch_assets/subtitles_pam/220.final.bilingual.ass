@@ -1,0 +1,29 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.93,0:00:04.13,S01,,0,0,0,,{\b1\fs22}艾莎和米娜就在这前方！\N{\fs15\c&HCCCCCC&}この向こうにアイシャとミーナが。
+Dialogue: 0,0:00:04.33,0:00:12.56,S01,,0,0,0,,{\b1\fs22}果然没那么容易过去啊。再撑一下，再撑一下！\N{\fs15\c&HCCCCCC&}さすがに簡単には通れねえか。もうちょっと、もうちょっと耐えてくれよ。
+Dialogue: 0,0:00:15.03,0:00:16.26,S01,,0,0,0,,{\b1\fs22}啊！\N{\fs15\c&HCCCCCC&}ああ！
+Dialogue: 0,0:00:31.26,0:00:34.03,S01,,0,0,0,,{\b1\fs22}这首歌，热气·巴萨拉\N{\fs15\c&HCCCCCC&}この歌、熱気バサラ。
+Dialogue: 0,0:00:36.13,0:00:38.63,S02,,0,0,0,,{\b1\fs22}你已经找到了吧，属于你的歌！\N{\fs15\c&HCCCCCC&}見つけたんだろ、お前の歌を。
+Dialogue: 0,0:00:39.26,0:00:46.96,S01,,0,0,0,,{\b1\fs22}啊，我终于明白自己该做什么了。该为何而飞！\N{\fs15\c&HCCCCCC&}ああ、ようやく俺は自分が何をすべきなのかわかった。何のために飛ぶべきなのか。
+Dialogue: 0,0:00:47.63,0:00:55.63,S02,,0,0,0,,{\b1\fs22}那我就为你这颗心加油吧。用我的呐喊，让灵魂沸腾吧！里昂！听我的歌！\N{\fs15\c&HCCCCCC&}ならそのハートを応援するぜ。俺のシャウトで魂を滾らせろ。リオン！俺の歌を聞け！
+Dialogue: 0,0:00:56.96,0:00:59.83,S01,,0,0,0,,{\b1\fs22}划破夜空的爱之心！\N{\fs15\c&HCCCCCC&}夜空を駆け抜けるラブハート。
+Dialogue: 0,0:00:59.86,0:01:03.66,S01,,0,0,0,,{\b1\fs22}将熊熊燃烧的烈焰彻底点燃吧！\N{\fs15\c&HCCCCCC&}燃える炎を燃やせ。

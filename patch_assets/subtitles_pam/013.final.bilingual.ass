@@ -1,0 +1,31 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.14,0:00:24.14,S06,,0,0,0,,{\b1\fs22}一直都能听见啊\N{\fs15\c&HCCCCCC&}ずっと聞こえてたよ
+Dialogue: 0,0:00:25.04,0:00:29.54,S06,,0,0,0,,{\b1\fs22}始终都在追寻啊\N{\fs15\c&HCCCCCC&}ずっと探してたよ
+Dialogue: 0,0:00:29.64,0:00:35.64,S06,,0,0,0,,{\b1\fs22}纵使不停转动命运之轮\N{\fs15\c&HCCCCCC&}運命の輪を廻し続けても
+Dialogue: 0,0:00:35.74,0:00:42.64,S06,,0,0,0,,{\b1\fs22}你的身影 比海市蜃楼更遥远\N{\fs15\c&HCCCCCC&}君の姿 蜃気楼より遠すぎて
+Dialogue: 0,0:00:42.74,0:00:48.54,S06,,0,0,0,,{\b1\fs22}将时代与星辰尽数汇聚\N{\fs15\c&HCCCCCC&}時代とか星とか全てを束ねて
+Dialogue: 0,0:00:48.64,0:00:55.64,S06,,0,0,0,,{\b1\fs22}当思念链接之时 故事便启程\N{\fs15\c&HCCCCCC&}思い リンクしたら 始まる
+Dialogue: 0,0:00:55.64,0:00:58.54,S06,,0,0,0,,{\b1\fs22}向着遥远彼岸\N{\fs15\c&HCCCCCC&}遙か先へ
+Dialogue: 0,0:00:58.64,0:01:03.84,S06,,0,0,0,,{\b1\fs22}怀抱着万千记忆 想要传递给你\N{\fs15\c&HCCCCCC&}あまねく記憶たずさえて 届けたいんだ
+Dialogue: 0,0:01:03.94,0:01:07.34,S06,,0,0,0,,{\b1\fs22}那些萦绕在我耳畔的声响\N{\fs15\c&HCCCCCC&}わたしに寄り添ってた音
+Dialogue: 0,0:01:07.44,0:01:13.54,S06,,0,0,0,,{\b1\fs22}终有一日定能 重绘苍穹的色彩\N{\fs15\c&HCCCCCC&}いつかきっと 宇宙(そら)の色も塗り替える
+Dialogue: 0,0:01:13.64,0:01:23.54,S06,,0,0,0,,{\b1\fs22}怀着梦想 明日也 我们将 为某人歌唱\N{\fs15\c&HCCCCCC&}夢見て 明日も 僕らは 誰かに歌う

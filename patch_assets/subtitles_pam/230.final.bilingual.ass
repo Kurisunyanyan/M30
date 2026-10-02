@@ -1,0 +1,26 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.68,0:00:19.34,S01,,0,0,0,,{\b1\fs22}这就是在那场可憎之战中失去的风景\N{\fs15\c&HCCCCCC&}これが、あの忌まわしき戦いで失われた風景。
+Dialogue: 0,0:00:20.02,0:00:21.62,S01,,0,0,0,,{\b1\fs22}我的故乡\N{\fs15\c&HCCCCCC&}私の故郷。
+Dialogue: 0,0:00:22.84,0:00:28.68,S01,,0,0,0,,{\b1\fs22}又或者，漫长的噩梦已经结束，真实的世界正在苏醒\N{\fs15\c&HCCCCCC&}もしくは、長い悪夢が終わり、真実の世界が目覚めるのだ。
+Dialogue: 0,0:00:35.92,0:00:38.11,S02,,0,0,0,,{\b1\fs22}这里究竟是……\N{\fs15\c&HCCCCCC&}ここは一体...
+Dialogue: 0,0:00:41.08,0:00:41.88,S02,,0,0,0,,{\b1\fs22}艾莎！\N{\fs15\c&HCCCCCC&}アイシャ！
+Dialogue: 0,0:00:42.74,0:00:43.38,S02,,0,0,0,,{\b1\fs22}米娜！\N{\fs15\c&HCCCCCC&}ミーナ！

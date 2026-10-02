@@ -1,0 +1,28 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.11,0:00:04.32,S01,,0,0,0,,{\b1\fs22}你，你……是萨拉·诺姆吗？\N{\fs15\c&HCCCCCC&}あなた、あなたが…サラ・ノームなの？
+Dialogue: 0,0:00:05.18,0:00:07.71,S01,,0,0,0,,{\b1\fs22}突然冒出来是想干什么，你又是谁？\N{\fs15\c&HCCCCCC&}突然現れて何ですか、あなたは。
+Dialogue: 0,0:00:08.42,0:00:10.24,S02,,0,0,0,,{\b1\fs22}啊，我是……\N{\fs15\c&HCCCCCC&}あ、私は...
+Dialogue: 0,0:00:11.41,0:00:12.61,S01,,0,0,0,,{\b1\fs22}那个耳环是……\N{\fs15\c&HCCCCCC&}そのイヤリングは...
+Dialogue: 0,0:00:14.06,0:00:16.71,S01,,0,0,0,,{\b1\fs22}玛雅风之引导者传承之石\N{\fs15\c&HCCCCCC&}マヤンの風の導き手に伝わる石。
+Dialogue: 0,0:00:17.46,0:00:20.48,S01,,0,0,0,,{\b1\fs22}为什么不是岛上的人，你却戴着它？\N{\fs15\c&HCCCCCC&}なぜ島のものでないあなたがつけているの？
+Dialogue: 0,0:00:21.71,0:00:24.14,S02,,0,0,0,,{\b1\fs22}这是奶奶送给我的\N{\fs15\c&HCCCCCC&}これはおばあちゃんからもらった。
+Dialogue: 0,0:00:25.88,0:00:29.14,S02,,0,0,0,,{\b1\fs22}求你了，听我说。因为你是……\N{\fs15\c&HCCCCCC&}お願い、話を聞いて。だってあなたは...

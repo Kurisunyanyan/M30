@@ -1,0 +1,54 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.68,0:00:04.01,S01,,0,0,0,,{\b1\fs22}试着输入认证代码RM2DL\N{\fs15\c&HCCCCCC&}認証コードRM2DLを打ち込んでみて
+Dialogue: 0,0:00:04.54,0:00:05.21,S02,,0,0,0,,{\b1\fs22}收到\N{\fs15\c&HCCCCCC&}了解
+Dialogue: 0,0:00:05.66,0:00:08.01,S01,,0,0,0,,{\b1\fs22}这样YF-30随时都能起飞了\N{\fs15\c&HCCCCCC&}これでYF-30はいつでも飛べるわ
+Dialogue: 0,0:00:08.54,0:00:12.21,S02,,0,0,0,,{\b1\fs22}明白。明天就拜托你了，艾莎\N{\fs15\c&HCCCCCC&}了解だ。明日はよろしく頼んだぜ、アイシャ
+Dialogue: 0,0:00:12.78,0:00:18.81,S01,,0,0,0,,{\b1\fs22}彼此彼此。也拜托你了，里昂。这可是赌上我们未来的战斗啊\N{\fs15\c&HCCCCCC&}こちらこそ。よろしく頼むわよ、リオン。私たちの未来を賭けた戦いだもの
+Dialogue: 0,0:00:21.06,0:00:22.41,S03,,0,0,0,,{\b1\fs22}喂，里昂\N{\fs15\c&HCCCCCC&}ねえ、リオン
+Dialogue: 0,0:00:23.06,0:00:25.38,S04,,0,0,0,,{\b1\fs22}嗯？还有什么事吗？\N{\fs15\c&HCCCCCC&}ん？まだなんか話があるのか？
+Dialogue: 0,0:00:26.86,0:00:31.34,S03,,0,0,0,,{\b1\fs22}啊，没什么。忘了吧。辛苦了\N{\fs15\c&HCCCCCC&}うわ、なんでもないわ。忘れて。お疲れ様
+Dialogue: 0,0:00:31.46,0:00:32.01,S04,,0,0,0,,{\b1\fs22}啊\N{\fs15\c&HCCCCCC&}あ
+Dialogue: 0,0:00:35.46,0:00:40.94,S03,,0,0,0,,{\b1\fs22}嗯？是个没见过的代码。这个时间点是谁啊？\N{\fs15\c&HCCCCCC&}ん？見覚えのないコードね。こんな時間に誰かしら？
+Dialogue: 0,0:00:42.28,0:00:45.54,S03,,0,0,0,,{\b1\fs22}是的。这里是S.M.S乌洛波罗斯分公司\N{\fs15\c&HCCCCCC&}はい。こちらSMSウロボロス支社
+Dialogue: 0,0:00:56.14,0:00:56.81,S05,,0,0,0,,{\b1\fs22}里昂\N{\fs15\c&HCCCCCC&}リオン
+Dialogue: 0,0:00:57.18,0:00:57.74,S04,,0,0,0,,{\b1\fs22}嗯？\N{\fs15\c&HCCCCCC&}ん？
+Dialogue: 0,0:00:59.61,0:01:00.74,S05,,0,0,0,,{\b1\fs22}辛苦了\N{\fs15\c&HCCCCCC&}お疲れ様です
+Dialogue: 0,0:01:00.98,0:01:01.54,S04,,0,0,0,,{\b1\fs22}啊\N{\fs15\c&HCCCCCC&}あ
+Dialogue: 0,0:01:02.86,0:01:04.14,S05,,0,0,0,,{\b1\fs22}喂，里昂\N{\fs15\c&HCCCCCC&}ねえ、リオン
+Dialogue: 0,0:01:06.18,0:01:11.28,S05,,0,0,0,,{\b1\fs22}里昂，等乌洛波罗斯的极光散去后，你就要回塞菲拉了吗？\N{\fs15\c&HCCCCCC&}リオンはウロボロスオーロラが晴れたらセフィーラに帰っちゃうんですか？
+Dialogue: 0,0:01:12.01,0:01:19.41,S04,,0,0,0,,{\b1\fs22}是啊。其实我也挺喜欢这里的生活。等极光散去，我再慢慢考虑吧\N{\fs15\c&HCCCCCC&}そうだな。ここでの生活も結構気に入ってるし。オーロラが晴れたらゆっくり考えるさ
+Dialogue: 0,0:01:20.21,0:01:21.46,S05,,0,0,0,,{\b1\fs22}是这样啊\N{\fs15\c&HCCCCCC&}そうなんですね
+Dialogue: 0,0:01:23.06,0:01:33.54,S05,,0,0,0,,{\b1\fs22}我和里昂一样，也很喜欢这里。因为有艾莎，有大家，还有里昂在\N{\fs15\c&HCCCCCC&}私もリオンと同じでここが好きです。アイシャがいて、みんながいて、そしてリオンがいるから
+Dialogue: 0,0:01:39.14,0:01:42.21,S05,,0,0,0,,{\b1\fs22}艾莎？到底发生什么事了？\N{\fs15\c&HCCCCCC&}アイシャ？一体どうしたんですか？
+Dialogue: 0,0:01:42.86,0:01:43.54,S06,,0,0,0,,{\b1\fs22}里昂\N{\fs15\c&HCCCCCC&}リオン
+Dialogue: 0,0:01:44.66,0:01:45.54,S06,,0,0,0,,{\b1\fs22}米娜\N{\fs15\c&HCCCCCC&}ミーナ
+Dialogue: 0,0:01:46.98,0:01:47.78,S06,,0,0,0,,{\b1\fs22}求求你……\N{\fs15\c&HCCCCCC&}お願い
+Dialogue: 0,0:01:49.14,0:01:49.94,S06,,0,0,0,,{\b1\fs22}快逃\N{\fs15\c&HCCCCCC&}逃げて
+Dialogue: 0,0:01:52.38,0:01:54.34,S05,,0,0,0,,{\b1\fs22}里昂！里昂！\N{\fs15\c&HCCCCCC&}リオン！リオン！
+Dialogue: 0,0:02:00.21,0:02:01.14,S04,,0,0,0,,{\b1\fs22}米娜！\N{\fs15\c&HCCCCCC&}ミーナ！
+Dialogue: 0,0:02:04.34,0:02:07.21,S04,,0,0,0,,{\b1\fs22}艾莎！为什么！\N{\fs15\c&HCCCCCC&}アイシャ！どうして！
+Dialogue: 0,0:02:09.54,0:02:15.34,S07,,0,0,0,,{\b1\fs22}目标已回收。认证通过。现在开始返航\N{\fs15\c&HCCCCCC&}ターゲットを回収。認証クリア。これより帰還します
+Dialogue: 0,0:02:16.10,0:02:20.34,S04,,0,0,0,,{\b1\fs22}那双眼睛的颜色……难道是植入了植入体？\N{\fs15\c&HCCCCCC&}その目の色。まさかインプラントか
+Dialogue: 0,0:02:24.66,0:02:25.34,S06,,0,0,0,,{\b1\fs22}里昂\N{\fs15\c&HCCCCCC&}リオン
+Dialogue: 0,0:02:26.78,0:02:27.74,S06,,0,0,0,,{\b1\fs22}我\N{\fs15\c&HCCCCCC&}私
+Dialogue: 0,0:02:28.66,0:02:29.21,S06,,0,0,0,,{\b1\fs22}救\N{\fs15\c&HCCCCCC&}助
+Dialogue: 0,0:02:30.78,0:02:31.28,S06,,0,0,0,,{\b1\fs22}我\N{\fs15\c&HCCCCCC&}け

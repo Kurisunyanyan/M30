@@ -1,0 +1,41 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.93,0:00:09.10,S01,,0,0,0,,{\b1\fs22}在站台并肩，是时候改变\N{\fs15\c&HCCCCCC&}Together at the station, time to make the change.
+Dialogue: 0,0:00:09.53,0:00:13.26,S01,,0,0,0,,{\b1\fs22}你的裙摆飞扬\N{\fs15\c&HCCCCCC&}君のスカートが広がる
+Dialogue: 0,0:00:13.36,0:00:17.96,S01,,0,0,0,,{\b1\fs22}来吧，来吧，来吧，来吧\N{\fs15\c&HCCCCCC&}Get it on, get it on, get it on, get it on
+Dialogue: 0,0:00:18.03,0:00:23.03,S01,,0,0,0,,{\b1\fs22}因为不会就此结束\N{\fs15\c&HCCCCCC&}Cause it doesn't have to end
+Dialogue: 0,0:00:23.43,0:00:27.86,S02,,0,0,0,,{\b1\fs22}我只想做从未见过的自己\N{\fs15\c&HCCCCCC&}I only wanna be the me I've never seen
+Dialogue: 0,0:00:28.13,0:00:32.03,S02,,0,0,0,,{\b1\fs22}宝贝，听风起舞吧\N{\fs15\c&HCCCCCC&}Baby風を聞いて舞い上がれ
+Dialogue: 0,0:00:32.10,0:00:36.73,S01,,0,0,0,,{\b1\fs22}来吧，来吧，来吧，来吧\N{\fs15\c&HCCCCCC&}Get it on, get it on, get it on, get it on
+Dialogue: 0,0:00:36.76,0:00:43.33,S01,,0,0,0,,{\b1\fs22}因为不会就此结束\N{\fs15\c&HCCCCCC&}Cause it doesn't have to end
+Dialogue: 0,0:00:43.40,0:00:46.63,S01,,0,0,0,,{\b1\fs22}带我去天堂\N{\fs15\c&HCCCCCC&}Take me to heaven
+Dialogue: 0,0:00:46.66,0:00:51.33,S01,,0,0,0,,{\b1\fs22}啦啦啦，啦啦啦啦啦啦啦\N{\fs15\c&HCCCCCC&}La la la, la la la la la la la
+Dialogue: 0,0:00:51.36,0:00:53.73,S01,,0,0,0,,{\b1\fs22}啦啦啦，啦啦啦啦啦啦\N{\fs15\c&HCCCCCC&}La la la, la la la la la la
+Dialogue: 0,0:00:53.76,0:00:56.03,S01,,0,0,0,,{\b1\fs22}当我们翱翔，一次又一次\N{\fs15\c&HCCCCCC&}When we fly and over and over
+Dialogue: 0,0:00:56.06,0:01:00.53,S01,,0,0,0,,{\b1\fs22}我知道我能成为我的能量\N{\fs15\c&HCCCCCC&}I know I can be my energy
+Dialogue: 0,0:01:00.73,0:01:05.36,S01,,0,0,0,,{\b1\fs22}啦啦啦，啦啦啦啦啦啦啦\N{\fs15\c&HCCCCCC&}La la la, la la la la la la la
+Dialogue: 0,0:01:05.40,0:01:07.73,S01,,0,0,0,,{\b1\fs22}啦啦啦，啦啦啦啦啦啦\N{\fs15\c&HCCCCCC&}La la la, la la la la la la
+Dialogue: 0,0:01:07.76,0:01:10.06,S01,,0,0,0,,{\b1\fs22}让我一次又一次翱翔\N{\fs15\c&HCCCCCC&}Got me flying over and over
+Dialogue: 0,0:01:10.13,0:01:14.73,S01,,0,0,0,,{\b1\fs22}仿佛能释放我的能量\N{\fs15\c&HCCCCCC&}Seems to be a free my energy
+Dialogue: 0,0:01:14.80,0:01:19.43,S01,,0,0,0,,{\b1\fs22}啦啦啦，啦啦啦啦啦啦啦\N{\fs15\c&HCCCCCC&}La la la, la la la la la la la
+Dialogue: 0,0:01:19.46,0:01:21.83,S01,,0,0,0,,{\b1\fs22}啦啦啦，啦啦啦啦啦啦\N{\fs15\c&HCCCCCC&}La la la, la la la la la la
+Dialogue: 0,0:01:21.86,0:01:24.16,S01,,0,0,0,,{\b1\fs22}让我一次又一次翱翔\N{\fs15\c&HCCCCCC&}Got me flying over and over
+Dialogue: 0,0:01:24.20,0:01:27.43,S01,,0,0,0,,{\b1\fs22}火箭飞驰，释放我的能量\N{\fs15\c&HCCCCCC&}Flying rocket free my energy

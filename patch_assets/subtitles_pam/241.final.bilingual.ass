@@ -1,0 +1,37 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.54,0:00:03.78,S01,,0,0,0,,{\b1\fs22}我去阻止藤堂\N{\fs15\c&HCCCCCC&}闘道を止めてくる。
+Dialogue: 0,0:00:03.81,0:00:04.31,S02,,0,0,0,,{\b1\fs22}啊\N{\fs15\c&HCCCCCC&}ああ。
+Dialogue: 0,0:00:04.81,0:00:10.68,S01,,0,0,0,,{\b1\fs22}那一定就是，我此刻站在这里的理由。我要守护这颗星球\N{\fs15\c&HCCCCCC&}きっとそれが、俺が今ここにいる理由。この星を守ってみせる。
+Dialogue: 0,0:00:11.15,0:00:12.68,S02,,0,0,0,,{\b1\fs22}里昂，我……\N{\fs15\c&HCCCCCC&}リオン、私。
+Dialogue: 0,0:00:14.11,0:00:14.88,S02,,0,0,0,,{\b1\fs22}我……\N{\fs15\c&HCCCCCC&}私。
+Dialogue: 0,0:00:15.75,0:00:16.38,S03,,0,0,0,,{\b1\fs22}米娜\N{\fs15\c&HCCCCCC&}ミーナ。
+Dialogue: 0,0:00:17.91,0:00:22.38,S03,,0,0,0,,{\b1\fs22}里昂，谢谢你。我一定会平安回来\N{\fs15\c&HCCCCCC&}リオン、ありがとう。必ず無事に帰ってくる。
+Dialogue: 0,0:00:29.21,0:00:31.11,S02,,0,0,0,,{\b1\fs22}米娜，这边这边\N{\fs15\c&HCCCCCC&}ミーナちゃん、こっちこっち。
+Dialogue: 0,0:00:32.68,0:00:34.35,S04,,0,0,0,,{\b1\fs22}这里就是你的舞台\N{\fs15\c&HCCCCCC&}ここがあなたのステージよ。
+Dialogue: 0,0:00:41.35,0:00:43.35,S02,,0,0,0,,{\b1\fs22}雪露小姐，兰花小姐\N{\fs15\c&HCCCCCC&}セリルさん、ランカさん。
+Dialogue: 0,0:00:51.31,0:00:57.41,S04,,0,0,0,,{\b1\fs22}收下吧，米娜。你的心意，你的歌声，会成为大家的力量\N{\fs15\c&HCCCCCC&}受け取ってミーナちゃん。あなたの思いが、歌が、みんなの力になるわ。
+Dialogue: 0,0:00:58.88,0:01:02.15,S04,,0,0,0,,{\b1\fs22}来吧，用你的歌声开辟未来\N{\fs15\c&HCCCCCC&}さあ、あなたの歌で未来を切り開いて。
+Dialogue: 0,0:01:04.38,0:01:05.18,S02,,0,0,0,,{\b1\fs22}明美小姐\N{\fs15\c&HCCCCCC&}ミメイさん。
+Dialogue: 0,0:01:11.18,0:01:12.31,S02,,0,0,0,,{\b1\fs22}谢谢您\N{\fs15\c&HCCCCCC&}ありがとうございます。
+Dialogue: 0,0:01:15.15,0:01:19.68,S02,,0,0,0,,{\b1\fs22}我喜欢这颗星球。我喜欢这颗星球上的人们\N{\fs15\c&HCCCCCC&}私、この星が好き。この星の人たちが好き。
+Dialogue: 0,0:01:21.11,0:01:30.05,S02,,0,0,0,,{\b1\fs22}但是，这份特别的心意只属于你。我想把它传达给你。能遇见你，真的太好了\N{\fs15\c&HCCCCCC&}でも、この特別な思いはあなただけ。あなたに届けたい。あなたに会えて本当に良かった。
+Dialogue: 0,0:01:31.25,0:01:33.95,S02,,0,0,0,,{\b1\fs22}里昂，我喜欢你\N{\fs15\c&HCCCCCC&}リオン、私はあなたが好きです。

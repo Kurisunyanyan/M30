@@ -1,0 +1,25 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.84,0:00:04.74,S01,,0,0,0,,{\b1\fs22}让文化在那群家伙体内沸腾起来吧，米莉亚的女儿！\N{\fs15\c&HCCCCCC&}あいつらに文化を滾らせろ、ミリアの娘。
+Dialogue: 0,0:00:04.82,0:00:07.58,S01,,0,0,0,,{\b1\fs22}你身上有着天顶星人的灵魂\N{\fs15\c&HCCCCCC&}お前にはゼントランの魂というものがある。
+Dialogue: 0,0:00:07.62,0:00:10.24,S02,,0,0,0,,{\b1\fs22}是米莲啦，米莲·吉纳斯！\N{\fs15\c&HCCCCCC&}ミレーヌよ、ミレーヌ・ジーナス。
+Dialogue: 0,0:00:10.54,0:00:14.56,S02,,0,0,0,,{\b1\fs22}真是的，你到底什么时候才能长点记性啊，这个鸟头\N{\fs15\c&HCCCCCC&}ったく、いつになったら覚えるのかしら、この鳥頭。
+Dialogue: 0,0:00:15.18,0:00:19.12,S02,,0,0,0,,{\b1\fs22}好了。大家，听我的歌吧\N{\fs15\c&HCCCCCC&}まあいいわ。みんな、私の歌を聴いて。

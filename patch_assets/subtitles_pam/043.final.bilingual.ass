@@ -1,0 +1,31 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.63,0:00:04.23,S01,,0,0,0,,{\b1\fs22}深处的机库里应该还有备用女武神\N{\fs15\c&HCCCCCC&}まだ奥のハンガーに予備のバルキリーがあるはずだ。
+Dialogue: 0,0:00:04.36,0:00:09.03,S02,,0,0,0,,{\b1\fs22}B15区不可能没事。去那里也没用\N{\fs15\c&HCCCCCC&}エリアB15が無事だとは思えない。あのエリアに行っても無駄だ。
+Dialogue: 0,0:00:09.23,0:00:18.36,S03,,0,0,0,,{\b1\fs22}哥哥每次都只说这个！也许是徒劳无功，就算真的是徒劳，但说不定也有人在等待救援啊！\N{\fs15\c&HCCCCCC&}お兄ちゃんはいつもそればっか。無駄かもしれない。無駄かもしれないけど、もしかしたら助けを待ってる人がいるかもしれないじゃない。
+Dialogue: 0,0:00:19.43,0:00:25.13,S02,,0,0,0,,{\b1\fs22}不行！别去！求你了，别去！米娅！\N{\fs15\c&HCCCCCC&}ダメだ。行くな。行かないでくれ。ミア！
+Dialogue: 0,0:00:29.10,0:00:29.93,S02,,0,0,0,,{\b1\fs22}这里\N{\fs15\c&HCCCCCC&}ここ。
+Dialogue: 0,0:00:32.53,0:00:36.63,S04,,0,0,0,,{\b1\fs22}没有投诉吧？那就麻烦尽早汇款\N{\fs15\c&HCCCCCC&}クレームは出てないんでしょ？じゃあ早めの送金お願いするわ。
+Dialogue: 0,0:00:36.93,0:00:38.13,S05,,0,0,0,,{\b1\fs22}那没问题吧\N{\fs15\c&HCCCCCC&}それ大丈夫ね。
+Dialogue: 0,0:00:38.66,0:00:44.76,S04,,0,0,0,,{\b1\fs22}还有，之前买的零件还没到，麻烦你给那个老头施加点压力。拜托了\N{\fs15\c&HCCCCCC&}あと、この間買ったパーツが届いてないから、あの親父にプレッシャーをかけておいて。お願いね。
+Dialogue: 0,0:00:44.83,0:00:47.36,S05,,0,0,0,,{\b1\fs22}呃，这个有点……\N{\fs15\c&HCCCCCC&}えー、それはちょっと。
+Dialogue: 0,0:00:49.16,0:00:51.76,S04,,0,0,0,,{\b1\fs22}哎呀，你醒啦\N{\fs15\c&HCCCCCC&}あら、お目覚めのようね。
+Dialogue: 0,0:00:52.66,0:00:56.03,S04,,0,0,0,,{\b1\fs22}感觉怎么样？里昂·榊\N{\fs15\c&HCCCCCC&}気分はいかがかしら？リオン・榊くん。

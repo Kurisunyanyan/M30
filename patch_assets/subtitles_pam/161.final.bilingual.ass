@@ -1,0 +1,28 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.93,0:00:03.41,S01,,0,0,0,,{\b1\fs22}喂，听得到吗？\N{\fs15\c&HCCCCCC&}おい、聞こえるか？
+Dialogue: 0,0:00:04.05,0:00:06.05,S01,,0,0,0,,{\b1\fs22}是莫塔克拉S.M.S的飞行队吧？\N{\fs15\c&HCCCCCC&}モタクラSMSの飛行隊だろ？
+Dialogue: 0,0:00:06.33,0:00:08.65,S02,,0,0,0,,{\b1\fs22}没错。你们所属是？\N{\fs15\c&HCCCCCC&}そうだ。そちらの所属は？
+Dialogue: 0,0:00:09.33,0:00:17.33,S03,,0,0,0,,{\b1\fs22}SDF1骷髅小队所属，一条辉中尉。有件事想请你们帮忙，能允许我们着舰吗？\N{\fs15\c&HCCCCCC&}SDF1スカル小隊所属。一条輝中尉だ。協力してほしいことがあるんだけど、着艦を頼めるかな？
+Dialogue: 0,0:00:17.91,0:00:21.25,S04,,0,0,0,,{\b1\fs22}SDF1？不会吧\N{\fs15\c&HCCCCCC&}SDF1？そんな、まさか。
+Dialogue: 0,0:00:21.91,0:00:37.83,S05,,0,0,0,,{\b1\fs22}一条中尉，把通讯切给我吧。我是SDF-1马克罗斯号航空管制主任早濑未沙少校。我们从猎人公会那里听说了你们的事，有要事相告，请批准着舰\N{\fs15\c&HCCCCCC&}一条中尉、通信を変わります。SDF1マクロス航空管制主任、早瀬未沙少佐です。ハンターギルドからこちらのことを聞きました。聞いていただきたい話があります。着艦の許可をお願いします。
+Dialogue: 0,0:00:38.45,0:00:41.54,S02,,0,0,0,,{\b1\fs22}居然是马克罗斯……真让人不敢相信\N{\fs15\c&HCCCCCC&}マクロスだって信じられねえ。
+Dialogue: 0,0:00:42.87,0:00:45.54,S04,,0,0,0,,{\b1\fs22}收到。准许着舰\N{\fs15\c&HCCCCCC&}認解。着艦を許可します。

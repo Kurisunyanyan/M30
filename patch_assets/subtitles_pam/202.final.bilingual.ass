@@ -1,0 +1,25 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.69,0:00:11.83,S01,,0,0,0,,{\b1\fs22}又是你的歌声啊\N{\fs15\c&HCCCCCC&}またお前の歌か。
+Dialogue: 0,0:00:13.20,0:00:18.46,S01,,0,0,0,,{\b1\fs22}话说回来，莎伦，你居然连这么可爱的孩子都安排好了呢\N{\fs15\c&HCCCCCC&}それにしてもシャロン、こんな可愛い子ちゃんまで用意してくれるとはね。
+Dialogue: 0,0:00:18.86,0:00:25.53,S02,,0,0,0,,{\b1\fs22}啊哈哈。我只是想让你看到最美的天空而已\N{\fs15\c&HCCCCCC&}あはは。私はあなたに最高の空を見せてあげたいだけ。
+Dialogue: 0,0:00:26.26,0:00:30.93,S01,,0,0,0,,{\b1\fs22}哼，是吗。我可从没觉得这只是临时的啊\N{\fs15\c&HCCCCCC&}へっ、そうかよ。仮だなんて思わねえぜ。
+Dialogue: 0,0:00:31.53,0:00:34.06,S01,,0,0,0,,{\b1\fs22}好嘞，出发！\N{\fs15\c&HCCCCCC&}よっしゃ、行くぜ！

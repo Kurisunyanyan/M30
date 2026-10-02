@@ -1,0 +1,26 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.84,0:00:05.82,S01,,0,0,0,,{\b1\fs22}乌洛波罗斯新统合军基地发来通讯，要求我方说明情况\N{\fs15\c&HCCCCCC&}ウロボロス新統合軍基地から通信が入っています。こちらに説明を求めています。
+Dialogue: 0,0:00:06.18,0:00:10.54,S02,,0,0,0,,{\b1\fs22}乌洛波罗斯新统合军舰队发来通讯，似乎要求我方投靠\N{\fs15\c&HCCCCCC&}ウロボロス新統合軍の艦隊から通信。こちらに投靠を求めていますが。
+Dialogue: 0,0:00:11.18,0:00:18.52,S03,,0,0,0,,{\b1\fs22}挨了这种程度的攻击就乱了阵脚，根本是彻头彻尾的门外汉。别管他们，继续攻击！\N{\fs15\c&HCCCCCC&}これだけの攻撃を受けて、ずぶの素人だな。構うな。攻撃続行だ。
+Dialogue: 0,0:00:19.05,0:00:21.98,S04,,0,0,0,,{\b1\fs22}司令，有必要做到这种地步吗？\N{\fs15\c&HCCCCCC&}司令、ここまでする必要があるんですか？
+Dialogue: 0,0:00:22.82,0:00:30.62,S03,,0,0,0,,{\b1\fs22}愚钝。给我记住，凡是挡在地球未来面前的，皆为敌人\N{\fs15\c&HCCCCCC&}愚鈍。覚えておきたまえ。地球の未来の前に立ち塞がる者は全て敵だ。
+Dialogue: 0,0:00:31.18,0:00:35.47,S04,,0,0,0,,{\b1\fs22}非得做到这种地步吗？这样下去，就是屠杀了\N{\fs15\c&HCCCCCC&}ここまでしなくちゃならないのか。これじゃ、虐殺だ。

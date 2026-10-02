@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+test_sandbox/
+patch_assets/tools/ffmpeg.exe

@@ -1,0 +1,35 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.02,0:00:06.11,S01,,0,0,0,,{\b1\fs22}要是我能再早一点，再……\N{\fs15\c&HCCCCCC&}俺がもっと早く、もっと。
+Dialogue: 0,0:00:06.45,0:00:08.95,S02,,0,0,0,,{\b1\fs22}对不起，罗德\N{\fs15\c&HCCCCCC&}ごめんね、ロッド。
+Dialogue: 0,0:00:09.65,0:00:10.35,S03,,0,0,0,,{\b1\fs22}米娅！\N{\fs15\c&HCCCCCC&}ミア！
+Dialogue: 0,0:00:11.52,0:00:16.95,S02,,0,0,0,,{\b1\fs22}哥哥，对不起，我不该不听你的话\N{\fs15\c&HCCCCCC&}お兄ちゃん。言うこと聞かなくてごめんね。
+Dialogue: 0,0:00:17.22,0:00:19.14,S03,,0,0,0,,{\b1\fs22}米娅，别说话！\N{\fs15\c&HCCCCCC&}ミア、喋るな！
+Dialogue: 0,0:00:21.35,0:00:23.85,S03,,0,0,0,,{\b1\fs22}没事的。我们从这里逃出去\N{\fs15\c&HCCCCCC&}大丈夫だ。ここから逃げ出すぞ。
+Dialogue: 0,0:00:24.45,0:00:29.75,S01,,0,0,0,,{\b1\fs22}当然不行！不能动。你没看出来吗？\N{\fs15\c&HCCCCCC&}ダメに決まってるだろ！動かすわけにはいかない。見てわからないのか？
+Dialogue: 0,0:00:29.85,0:00:33.35,S03,,0,0,0,,{\b1\fs22}看不出来的是你！继续留在这里大家都会没命的！\N{\fs15\c&HCCCCCC&}お前こそわかってない。ここにいたらみんなやられちゃう。
+Dialogue: 0,0:00:36.75,0:00:42.75,S02,,0,0,0,,{\b1\fs22}罗德，和哥哥好好相处吧\N{\fs15\c&HCCCCCC&}ロッド。お兄ちゃんと仲良くして。
+Dialogue: 0,0:00:43.35,0:00:46.45,S01,,0,0,0,,{\b1\fs22}啊，对不起，米娅\N{\fs15\c&HCCCCCC&}ああ、ごめんよ、ミア。
+Dialogue: 0,0:00:48.25,0:00:56.75,S02,,0,0,0,,{\b1\fs22}哥哥，守护和平的未来吧\N{\fs15\c&HCCCCCC&}お兄ちゃん。平和な未来を守って。
+Dialogue: 0,0:01:01.02,0:01:03.25,S03,,0,0,0,,{\b1\fs22}米娅！\N{\fs15\c&HCCCCCC&}ミア！
+Dialogue: 0,0:01:07.58,0:01:10.95,S03,,0,0,0,,{\b1\fs22}要是我能好好阻止就好了……\N{\fs15\c&HCCCCCC&}俺が、俺がちゃんと止めておけば。
+Dialogue: 0,0:01:22.35,0:01:24.75,S04,,0,0,0,,{\b1\fs22}那才是奇迹\N{\fs15\c&HCCCCCC&}それが奇跡なんだ。
+Dialogue: 0,0:01:24.75,0:01:25.45,S03,,0,0,0,,{\b1\fs22}米娜\N{\fs15\c&HCCCCCC&}ミーノ。

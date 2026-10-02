@@ -1,0 +1,35 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.16,0:00:24.83,S01,,0,0,0,,{\b1\fs22}是！\N{\fs15\c&HCCCCCC&}はい！
+Dialogue: 0,0:00:26.56,0:00:31.33,S02,,0,0,0,,{\b1\fs22}如撕裂闪烁的星空！\N{\fs15\c&HCCCCCC&}瞬く星空切り裂くように
+Dialogue: 0,0:00:31.40,0:00:35.83,S02,,0,0,0,,{\b1\fs22}书写吧，让震颤的巴巴康轰鸣！\N{\fs15\c&HCCCCCC&}書き鳴らせ 震くババコーン
+Dialogue: 0,0:00:36.33,0:00:41.25,S02,,0,0,0,,{\b1\fs22}跨越离别的地球，闪耀吧！\N{\fs15\c&HCCCCCC&}去り着いた地球を飛び越えて輝け
+Dialogue: 0,0:00:41.25,0:00:46.25,S02,,0,0,0,,{\b1\fs22}没时间让岁月停滞！\N{\fs15\c&HCCCCCC&}年止まってる暇はないんだぜ
+Dialogue: 0,0:00:46.87,0:00:55.62,S02,,0,0,0,,{\b1\fs22}为了此刻夺回掌控未来的钥匙！\N{\fs15\c&HCCCCCC&}未来を掴み取る鍵を今取り戻すそのために
+Dialogue: 0,0:00:56.45,0:01:03.75,S02,,0,0,0,,{\b1\fs22}只要还能战斗，就赌上一切，对吧！\N{\fs15\c&HCCCCCC&}戦えるなら全てを賭ける それそうだよね
+Dialogue: 0,0:01:03.87,0:01:07.37,S02,,0,0,0,,{\b1\fs22}终极！终极！终极！\N{\fs15\c&HCCCCCC&}アルティメイト アルティメイト アルティメイト
+Dialogue: 0,0:01:07.37,0:01:09.95,S02,,0,0,0,,{\b1\fs22}是！来吧！\N{\fs15\c&HCCCCCC&}はい！カモン！
+Dialogue: 0,0:01:09.95,0:01:12.45,S02,,0,0,0,,{\b1\fs22}跃向天空！\N{\fs15\c&HCCCCCC&}ジャンプトゥデスカイ
+Dialogue: 0,0:01:12.45,0:01:17.41,S02,,0,0,0,,{\b1\fs22}此刻，跨越现实！\N{\fs15\c&HCCCCCC&}現実は飛び越えろ今
+Dialogue: 0,0:01:18.29,0:01:19.79,S02,,0,0,0,,{\b1\fs22}来吧！\N{\fs15\c&HCCCCCC&}カモン！
+Dialogue: 0,0:01:19.83,0:01:22.20,S02,,0,0,0,,{\b1\fs22}五，为荣耀！\N{\fs15\c&HCCCCCC&}ファイブフォーグリュウ
+Dialogue: 0,0:01:22.25,0:01:30.66,S02,,0,0,0,,{\b1\fs22}为寻得希望的世界，献出一切！\N{\fs15\c&HCCCCCC&}捧げるよ希望の世界を見つけるために
+Dialogue: 0,0:01:33.08,0:01:36.12,S01,,0,0,0,,{\b1\fs22}是！\N{\fs15\c&HCCCCCC&}はい！

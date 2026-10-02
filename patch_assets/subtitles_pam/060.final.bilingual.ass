@@ -1,0 +1,26 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.84,0:00:04.13,S01,,0,0,0,,{\b1\fs22}阿尔特！你倒是听我把话说完啊！\N{\fs15\c&HCCCCCC&}アルト！もう私の話を聞いて！
+Dialogue: 0,0:00:04.48,0:00:07.92,S01,,0,0,0,,{\b1\fs22}那些人，和一直追着我们的军队不一样\N{\fs15\c&HCCCCCC&}あの人たちは私たちを追い回した軍とは違うわ。
+Dialogue: 0,0:00:08.96,0:00:12.12,S01,,0,0,0,,{\b1\fs22}喂！阿尔特，你听到没有！阿尔特你个笨蛋！\N{\fs15\c&HCCCCCC&}てめえ、聞いてるアルト！アルトってば！
+Dialogue: 0,0:00:12.62,0:00:13.32,S02,,0,0,0,,{\b1\fs22}上！\N{\fs15\c&HCCCCCC&}行け！
+Dialogue: 0,0:00:14.78,0:00:19.64,S01,,0,0,0,,{\b1\fs22}哼，敢无视我雪露·诺姆，真是好大的胆子\N{\fs15\c&HCCCCCC&}ふーん。このシェリル・ノームを無視するなんていい度胸じゃない。
+Dialogue: 0,0:00:20.82,0:00:24.12,S01,,0,0,0,,{\b1\fs22}你们，给我听好我的歌！\N{\fs15\c&HCCCCCC&}あんたたち、私の歌を聴け！

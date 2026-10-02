@@ -1,0 +1,41 @@
+[Script Info]
+Title: Macross 30 ED Wandering Definitive Calibrated Subtitle
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,24,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,24,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.26,0:00:22.77,S06,,0,0,0,,{\b1\fs22}如果我没有在此驻足\N{\fs15\c&HCCCCCC&}もしも私が この場所じゃなく
+Dialogue: 0,0:00:22.85,0:00:27.64,S06,,0,0,0,,{\b1\fs22}而是在相邻的道路上漫步的话\N{\fs15\c&HCCCCCC&}隣の道を選んでいたら
+Dialogue: 0,0:00:27.72,0:00:32.16,S06,,0,0,0,,{\b1\fs22}造就了现在的一切 连同你的声音\N{\fs15\c&HCCCCCC&}現在(いま)を作ってる 君のその声さえも
+Dialogue: 0,0:00:32.96,0:00:41.13,S06,,0,0,0,,{\b1\fs22}于宽广夜空的深处 不断回响\N{\fs15\c&HCCCCCC&}ここに響かなかった 広がる夜空の奥
+Dialogue: 0,0:00:41.93,0:00:46.78,S06,,0,0,0,,{\b1\fs22}空中纷飞的话语 并非空虚的妄想\N{\fs15\c&HCCCCCC&}そう それは空想じゃない 飛び交う言葉たち
+Dialogue: 0,0:00:47.58,0:00:53.69,S06,,0,0,0,,{\b1\fs22}相逢的人们 温暖贴近了内心的距离\N{\fs15\c&HCCCCCC&}行き交う人たちの 温もりが心を結んで
+Dialogue: 0,0:00:54.49,0:01:01.96,S06,,0,0,0,,{\b1\fs22}街道灯火通明 和风将我吹拂\N{\fs15\c&HCCCCCC&}街の灯が点る 風が私を照らしていくよ
+Dialogue: 0,0:01:02.76,0:01:06.68,S06,,0,0,0,,{\b1\fs22}可以看见有你在的天空吗\N{\fs15\c&HCCCCCC&}君の空から見えてるかな
+Dialogue: 0,0:01:25.40,0:01:32.98,S06,,0,0,0,,{\b1\fs22}细微的小事 微弱的光芒 塞满了空荡荡的内心\N{\fs15\c&HCCCCCC&}何気ないこと 小さく光る 心の透明が満ちていくの
+Dialogue: 0,0:01:33.78,0:01:42.58,S06,,0,0,0,,{\b1\fs22}没有名称 也没有感情 像我这般\N{\fs15\c&HCCCCCC&}一つ一つの名前も無い 感情さえも 私になるよ
+Dialogue: 0,0:01:43.38,0:01:47.90,S06,,0,0,0,,{\b1\fs22}一往如常的笑着\N{\fs15\c&HCCCCCC&}いつものように笑う
+Dialogue: 0,0:01:47.98,0:01:51.45,S06,,0,0,0,,{\b1\fs22}也许这就名为奇迹吧\N{\fs15\c&HCCCCCC&}そう それは奇跡なのかもね
+Dialogue: 0,0:01:51.53,0:01:55.22,S06,,0,0,0,,{\b1\fs22}一起欢笑也好 一起悲伤也好\N{\fs15\c&HCCCCCC&}喜び合うのも 悲しみ合うのも
+Dialogue: 0,0:01:55.30,0:02:02.05,S06,,0,0,0,,{\b1\fs22}全部都合为一体 环绕着这个星球\N{\fs15\c&HCCCCCC&}全て一つに溶け合って この星を巡る
+Dialogue: 0,0:02:02.85,0:02:12.19,S06,,0,0,0,,{\b1\fs22}将我包裹住的这份爱 在你的天空中长存\N{\fs15\c&HCCCCCC&}愛が私をくるんでいくよ 君の空に続きますように
+Dialogue: 0,0:02:30.95,0:02:34.18,S06,,0,0,0,,{\b1\fs22}在这个世界 用这个视线\N{\fs15\c&HCCCCCC&}この世界で この目線で
+Dialogue: 0,0:02:34.26,0:02:38.07,S06,,0,0,0,,{\b1\fs22}感受到的重重颤动\N{\fs15\c&HCCCCCC&}触れてきた幾重の鼓動
+Dialogue: 0,0:02:38.15,0:02:40.91,S06,,0,0,0,,{\b1\fs22}铭刻在内心\N{\fs15\c&HCCCCCC&}染み込んでいくの
+Dialogue: 0,0:02:40.99,0:02:49.96,S06,,0,0,0,,{\b1\fs22}重力之外 我和你 拥抱在一起\N{\fs15\c&HCCCCCC&}重力の外 君と二人 重なって
+Dialogue: 0,0:02:50.76,0:02:58.92,S06,,0,0,0,,{\b1\fs22}环绕着这个星球 你的爱将我包裹住\N{\fs15\c&HCCCCCC&}この星を巡る 愛が私をくるんでいくよ
+Dialogue: 0,0:02:59.72,0:03:04.33,S06,,0,0,0,,{\b1\fs22}这就称之为奇迹 无论是一起欢笑\N{\fs15\c&HCCCCCC&}それが奇跡なんだ 喜び合うのも
+Dialogue: 0,0:03:04.41,0:03:10.45,S06,,0,0,0,,{\b1\fs22}还是一起悲伤 全部合为一体\N{\fs15\c&HCCCCCC&}悲しみ合うのも全て一つに溶け合って
+Dialogue: 0,0:03:11.25,0:03:15.19,S06,,0,0,0,,{\b1\fs22}空中纷飞的话语 相遇的人们\N{\fs15\c&HCCCCCC&}飛び交う言葉たち 行き交う人たちの
+Dialogue: 0,0:03:15.27,0:03:21.94,S06,,0,0,0,,{\b1\fs22}温暖贴近了内心的距离 无论是相互争吵\N{\fs15\c&HCCCCCC&}温もりが心を結んで ぶつかり合うのも
+Dialogue: 0,0:03:22.74,0:03:28.79,S06,,0,0,0,,{\b1\fs22}还是互相拥抱 全部都融洽的在一起\N{\fs15\c&HCCCCCC&}抱きしめ合うのも全て一つに溶け合って
+Dialogue: 0,0:03:29.59,0:03:37.10,S06,,0,0,0,,{\b1\fs22}抚摸着这颗星星 风儿将我吹拂\N{\fs15\c&HCCCCCC&}この星を撫でる 風が私を照らしていくよ
+Dialogue: 0,0:03:37.90,0:03:43.97,S06,,0,0,0,,{\b1\fs22}为了在你的天空长存 响彻银河\N{\fs15\c&HCCCCCC&}銀河へ響いて 君の空に続きますように

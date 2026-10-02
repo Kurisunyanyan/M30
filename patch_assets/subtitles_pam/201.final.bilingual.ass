@@ -1,0 +1,29 @@
+[Script Info]
+Title: Macross 30 Definitive Bilingual Hardsub for Patch
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S01,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S02,Microsoft YaHei,22,&H005BE7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S03,Microsoft YaHei,22,&H0086F28F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S04,Microsoft YaHei,22,&H00FFB56B,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S05,Microsoft YaHei,22,&H00FF8EDB,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S06,Microsoft YaHei,22,&H00BBA7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: S07,Microsoft YaHei,22,&H00FFA8A8,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+Style: Default,Microsoft YaHei,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.18,0:00:10.12,S01,,0,0,0,,{\b1\fs22}没想到莎朗强化的歌能量竟然如此惊人\N{\fs15\c&HCCCCCC&}シャロンアップの歌エネルギーがこれほどのものだなんて。
+Dialogue: 0,0:00:10.41,0:00:17.41,S02,,0,0,0,,{\b1\fs22}该死！不阻止莎朗的歌，就永远没完没了吗！难道无法抵消莎朗的歌吗！\N{\fs15\c&HCCCCCC&}くそっ！シャロンの歌を止めないと、キリがないってことか！シャロンの歌は打ち消せないのか！
+Dialogue: 0,0:00:17.83,0:00:24.61,S01,,0,0,0,,{\b1\fs22}我才不会认输呢。怎么可能输给利用歌声作恶的家伙！\N{\fs15\c&HCCCCCC&}私、負けないもん。歌を悪用するような人たちに、絶対負けてたまるもんですか！
+Dialogue: 0,0:00:26.25,0:00:30.25,S03,,0,0,0,,{\b1\fs22}哦？唱得挺热血的嘛，米莲\N{\fs15\c&HCCCCCC&}えっ、なかなか熱い歌を歌ってやがるじゃねえか。ミレーヌ。
+Dialogue: 0,0:00:30.29,0:00:31.25,S02,,0,0,0,,{\b1\fs22}你是……\N{\fs15\c&HCCCCCC&}あんたは。
+Dialogue: 0,0:00:31.71,0:00:36.04,S01,,0,0,0,,{\b1\fs22}巴萨拉！你之前、之前到底在干什么啊！\N{\fs15\c&HCCCCCC&}バサラ！今まで、今まで何やってたのよ！
+Dialogue: 0,0:00:36.33,0:00:37.83,S04,,0,0,0,,{\b1\fs22}太慢了，巴萨拉！\N{\fs15\c&HCCCCCC&}遅いぞ、バサラ。
+Dialogue: 0,0:00:38.54,0:00:44.25,S03,,0,0,0,,{\b1\fs22}歌声，就是将滚烫的心狠狠砸出去的东西。用我的歌声，让灵魂沸腾吧！\N{\fs15\c&HCCCCCC&}歌は熱いハートを叩きつけるものだ。俺の歌で、魂を熱くさせてやるぜ！
+Dialogue: 0,0:00:44.95,0:00:48.25,S02,,0,0,0,,{\b1\fs22}听我唱歌吧！Bomber！\N{\fs15\c&HCCCCCC&}俺の歌を聴け！ボンバー！
