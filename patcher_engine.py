@@ -243,6 +243,12 @@ def patch_iso_with_pam_and_repack(iso_path: Path, assets_dir: Path, log_cb=None)
     if disc_movie.exists():
         patch_subtitles_pam_dir(disc_movie, assets_dir / "subtitles_pam", log_cb)
 
+    # 4. Clean up temporary backup files before repack
+    for junk in extract_dir.rglob('*.bak'):
+        junk.unlink()
+    for junk in extract_dir.rglob('*.orig'):
+        junk.unlink()
+
     # 4. Repack ISO via genps3iso
     log_msg("  [4/4] 正在将全部汉化内容重新封装为标准 PS3 ISO 镜像...", log_cb)
     temp_iso_out = work_dir / "repacked_game.iso"
