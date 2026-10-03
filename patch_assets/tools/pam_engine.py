@@ -579,9 +579,9 @@ def build_clean_pam(template_pam: Path, in_m2v: Path, out_pam: Path):
 
 def main():
     parser = argparse.ArgumentParser(description="Dynamic Macross 30 PAMF Muxer")
-    parser.add_argument("--template", default=r"I:\Emulator\ps3\games\BLJS10184\PS3_GAME\USRDIR\data\movie\013.pam.orig")
-    parser.add_argument("--m2v", default=r"C:\Users\kuris\src\macross30-project\tmp\013_perfect_gop_sub.m2v")
-    parser.add_argument("--out", default=r"I:\Emulator\ps3\games\BLJS10184\PS3_GAME\USRDIR\data\movie\013.pam")
+    parser.add_argument("--template")
+    parser.add_argument("--m2v")
+    parser.add_argument("--out")
     args = parser.parse_args()
 
     build_clean_pam(Path(args.template), Path(args.m2v), Path(args.out))
@@ -616,13 +616,16 @@ from pathlib import Path
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-DEFAULT_PROJECT = Path(r"C:\Users\kuris\src\macross30-project")
-DEFAULT_GAME_DIR = Path(r"I:\Emulator\ps3\games\BLJS10184\PS3_GAME\USRDIR")
-DEFAULT_MOVIE_DIR = DEFAULT_GAME_DIR / "data" / "movie"
-DEFAULT_SUB_DIR = DEFAULT_PROJECT / "data" / "final_patch_subtitles"
-DEFAULT_TMP_DIR = DEFAULT_PROJECT / "tmp" / "pam_sub_work"
+import tempfile
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+if getattr(sys, "frozen", False):
+    APP_DIR = Path(sys.executable).resolve().parent
+else:
+    APP_DIR = SCRIPT_DIR.parent.parent
+
+DEFAULT_SUB_DIR = SCRIPT_DIR.parent / "subtitles_pam"
+DEFAULT_TMP_DIR = Path(tempfile.gettempdir()) / "m30_pam_work"
 sys.path.insert(0, str(SCRIPT_DIR))
 
 
@@ -777,7 +780,7 @@ def main():
     args = parser.parse_args()
 
     cg = args.cg
-    pam_path = Path(args.pam) if args.pam else (DEFAULT_MOVIE_DIR / f"{cg}.pam")
+    pam_path = Path(args.pam) if args.pam else Path(f"{cg}.pam")
     ass_path = Path(args.ass) if args.ass else (DEFAULT_SUB_DIR / f"{cg}.final.bilingual.ass")
     success = patch_single_cg(cg, pam_path, ass_path, dry_run=args.dry_run)
     sys.exit(0 if success else 1)

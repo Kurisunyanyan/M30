@@ -113,22 +113,18 @@ class PatcherApp(tk.Tk):
             self.row_iso.pack_forget()
 
     def detect_default_paths(self):
-        candidates = [
-            Path(r"J:/m30/BLJS10184/rpcs3-pam-fix"),
-            Path(r"I:/Emulator/ps3"),
-        ]
-        for c in candidates:
-            if c.exists():
-                self.rpcs3_path.set(str(c))
+        # Scan relative/adjacent directories without hardcoding personal absolute paths
+        cur = SCRIPT_DIR
+        for p in [cur, cur.parent, cur.parent.parent]:
+            if (p / "rpcs3.exe").exists():
+                self.rpcs3_path.set(str(p))
                 break
-        
-        iso_cand = Path(r"J:/m30/BLJS10184/original_game_data/BLJS10184_v1.00.iso")
-        if iso_cand.exists():
-            self.iso_path.set(str(iso_cand))
-
-        disc_cand = Path(r"J:/m30/BLJS10184/original_game_data/BLJS10184_disc_v1.00")
-        if disc_cand.exists():
-            self.disc_path.set(str(disc_cand))
+            for sub in p.glob("rpcs3*"):
+                if sub.is_dir() and (sub / "rpcs3.exe").exists():
+                    self.rpcs3_path.set(str(sub))
+                    break
+            if self.rpcs3_path.get():
+                break
 
     def browse_rpcs3(self):
         dp = filedialog.askdirectory(title="选择 RPCS3 根目录 (包含 rpcs3.exe 的目录)")

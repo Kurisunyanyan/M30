@@ -4,14 +4,14 @@ Macross 30 Chinese Patcher Core Engine (High Precision Bit-Exact Version)
 ========================================================================
 Features:
 - Bit-exact dual-track injection for data.dat, data2.dat, fileset0.dat, pack.idx
-- Full SHA-256 preflight and post-check verification matching I:\\Emulator\\ps3 live hashes
+- Full SHA-256 preflight and post-check verification matching authoritative game hashes
 - Automatic backup mechanism (.bak) for original files before patching
 - Supports:
   1. Mode ISO: Full unpack of ISO, inject pack, burn 64 PAM subtitles, repack to ISO, and sync to INSTALL + EBOOT
   2. Mode Disc Folder: Patch PS3_GAME directory + burn 64 PAM subtitles + sync to INSTALL + EBOOT
 """
 
-import os, sys, struct, zlib, json, hashlib, shutil, time, subprocess
+import os, sys, struct, zlib, json, hashlib, shutil, time, subprocess, tempfile
 if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 from pathlib import Path
 from PIL import Image
@@ -29,7 +29,7 @@ def get_pam_engine():
     from pam_engine import patch_single_cg
     return patch_single_cg
 
-# Authoritative Bit-Exact Hashes Matching I:\Emulator\ps3
+# Authoritative Bit-Exact Hashes Matching PS3 Game Release
 EXPECTED_HASHES = {
     "data.dat": "2e66519b908ac958942209157572d024bacf4f2c8bb622e25eca690e20e5bc55",
     "data2.dat": "0e672b989dcbeaf94631dcd7daf1bb4954d3bfa9b05e9503b141417ad6b29ea1",
@@ -209,7 +209,7 @@ def patch_iso_with_pam_and_repack(iso_path: Path, assets_dir: Path, log_cb=None)
         log_msg("[-] 缺少必要的 ISO 解包或生成工具 (7z.exe / genps3iso.exe)", log_cb)
         return False
 
-    work_dir = SCRIPT_DIR / "tmp" / "iso_full_repack_work"
+    work_dir = Path(tempfile.gettempdir()) / "m30_iso_repack_work"
     work_dir.mkdir(parents=True, exist_ok=True)
     extract_dir = work_dir / "disc_extracted"
     if extract_dir.exists():
