@@ -712,7 +712,7 @@ def encode_subtitles(in_m2v: Path, ass_path: Path, out_m2v: Path, forced_ts: str
         raise RuntimeError(f"FFmpeg encoding failed:\n{res.stderr}")
     print(f"  [FFmpeg OK] Encoded in {time.time()-t0:.2f}s -> {out_m2v.name} ({out_m2v.stat().st_size:,} bytes)")
 
-def patch_single_cg(cg_id: str, pam_path: Path, ass_path: Path, dry_run=False) -> bool:
+def patch_single_cg(cg_id: str, pam_path: Path, ass_path: Path, dry_run=False, tmp_base_dir: Path = None) -> bool:
     print(f"\n=======================================================")
     print(f"  Macross 30 PAM Subtitle Patch: CG {cg_id}")
     print(f"=======================================================")
@@ -735,7 +735,8 @@ def patch_single_cg(cg_id: str, pam_path: Path, ass_path: Path, dry_run=False) -
         print(f"[-] Error: Source PAM not found: {pam_path}")
         return False
 
-    work_dir = DEFAULT_TMP_DIR / cg_id
+    base_tmp = tmp_base_dir if tmp_base_dir else DEFAULT_TMP_DIR
+    work_dir = base_tmp / cg_id
     work_dir.mkdir(parents=True, exist_ok=True)
 
     raw_m2v = work_dir / f"{cg_id}_raw.m2v"
@@ -767,6 +768,12 @@ def patch_single_cg(cg_id: str, pam_path: Path, ass_path: Path, dry_run=False) -
         print(f"  [Deploy OK] Patched PAM successfully deployed to game directory! ({pam_path.stat().st_size:,} bytes)")
     else:
         print(f"  [Dry Run] Skipping live deployment. Output: {built_pam}")
+
+    # Clean intermediate artifacts to avoid gigabytes of temp files accumulating
+    try:
+        shutil.rmtree(work_dir, ignore_errors=True)
+    except Exception:
+        pass
 
     print(f"[Complete] CG {cg_id} Subtitle Patch Successfully Applied!")
     return True
